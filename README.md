@@ -18,13 +18,17 @@ This analysis produced two primary insights:
 
 The analysis confirms the on-court plus-minus for each player across the series, identifying the individuals with the most significant impact on the team's point differential.
 
-![Individual Plus-Minus Chart](ucla_wbb_plus_minus_final.png)
+<p align="center">
+  <img src="images/ucla_wbb_plus_minus_final.png" alt="Individual Plus-Minus Chart" height="500">
+</p>
 
 ### 2. A Highly Potent Lineup Combination
 
 By normalizing lineup data to **Plus-Minus per 5 Minutes**, we can identify the most *efficient* five-player units. The data reveals that the lineup of **Elina Aarnisalo, Janiah Barker, Kiki Rice, Lauren Betts, and Timea Gardiner** was UCLA's most effective combination on a per-minute basis, suggesting an elite level of efficiency and chemistry.
 
-![Lineup Effectiveness Chart](ucla_wbb_lineup_analysis.png)
+<p align="center">
+  <img src="images/ucla_wbb_lineup_analysis.png" alt="Lineup Effectiveness Chart" height="550">
+</p>
 
 ---
 
